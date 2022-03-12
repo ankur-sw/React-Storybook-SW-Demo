@@ -1,0 +1,13 @@
+.iconStyle {
+  display: flex;
+}
+
+.icon {
+  margin-right: 25px;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.icon:hover {
+  cursor: pointer;
+}

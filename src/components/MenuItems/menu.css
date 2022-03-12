@@ -1,0 +1,18 @@
+.menuStyle {
+  display: flex;
+  /* justify-content: space-between; */
+  /* margin: 30px; */
+}
+
+.menuitem {
+  padding: 10px;
+  margin-right: 25px;
+}
+
+.menuitem a {
+  text-decoration: none;
+  color: #716c80;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+}
